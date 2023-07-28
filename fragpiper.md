@@ -1,6 +1,6 @@
 #### Proteomics Data Analysis Using FragPipe
 
-![Untitled%20document.png](attachment:Untitled%20document.png)
+![Pic1](https://github.com/Mahendra687/ProtemicsDataAnalysis/assets/97247515/ff8ff519-df00-4c6d-b1d3-926f2a631184)
 
 **Part_1: Setting up FragPipe**
 
@@ -14,7 +14,9 @@ Download the FragPipe latest releases from here [Click here](https://github.com/
 
 - After downloading the package, extract it to a location on your Linux-Ubuntu/Windows machine.
 - Opne the FragPipe-20.0/fragpipe folder Click on **bin** folder and run the programe file.
-![download.png](attachment:download.png)
+
+![pic2](https://github.com/Mahendra687/ProtemicsDataAnalysis/assets/97247515/f08d6500-5d42-41ab-b9ac-30fa248609cb)
+
 
 **Command line interface:** without GUI CLick the link [here](https://fragpipe.nesvilab.org/docs/tutorial_headless.html)
 
